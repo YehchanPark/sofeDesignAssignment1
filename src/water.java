@@ -19,7 +19,6 @@ public class water implements bottle{
         try {
             Scanner scanner = new Scanner(file);
 
-            //now read the file line by line...
             int lineNum = 0;
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();

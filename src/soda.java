@@ -20,7 +20,6 @@ public class soda implements bottle {
         try {
             Scanner scanner = new Scanner(file);
 
-            //now read the file line by line...
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
                 if(line.substring(0,productName.length()).equalsIgnoreCase(productName)) {
