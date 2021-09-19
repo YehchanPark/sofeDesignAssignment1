@@ -1,0 +1,4 @@
+Pepsi  2.00
+Fanta  3.00
+Dasani 1.00
+Smart  2.00
