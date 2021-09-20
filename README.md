@@ -3,7 +3,7 @@
 ## Table of Contents
 
 ### Code
-[Test Driver](https://github.com/YehchanPark/sofeDesignAssignment1/blob/main/src/test/testFactory.java)
+[Test Driver](https://github.com/YehchanPark/sofeDesignAssignment1/blob/main/src/test/testFactory.java)\
 [Supporting Code](https://github.com/YehchanPark/sofeDesignAssignment1/tree/main/src/Assign1)
 
 ### UML Diagram
