@@ -1,3 +1,5 @@
+package Assign1;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -19,7 +21,6 @@ public class soda implements bottle {
 
         try {
             Scanner scanner = new Scanner(file);
-
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
                 if(line.substring(0,productName.length()).equalsIgnoreCase(productName)) {

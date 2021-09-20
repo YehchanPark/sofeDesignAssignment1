@@ -1,4 +1,18 @@
-## Group 25
+# Group 25 Assignment
+
+## Table of Contents
+
+### Code
+#### Test Driver
+#### Supporting Code
+
+### UML Diagram
+[UML Diagram](https://github.com/YehchanPark/sofeDesignAssignment1/blob/main/UML%20Diagram.png)
+
+### Screenshots of Code Output
+[Code output](https://google.com)
+
+### Group Members
 Banujan Sutheswaran (100750620)\
 Cyrus Lee (100748627)\
 Nathan Bojczuk (100749012)\

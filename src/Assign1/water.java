@@ -1,3 +1,5 @@
+package Assign1;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -18,7 +20,6 @@ public class water implements bottle{
 
         try {
             Scanner scanner = new Scanner(file);
-
             int lineNum = 0;
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
