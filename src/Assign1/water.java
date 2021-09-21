@@ -16,7 +16,7 @@ public class water implements bottle{
     }
 
     public void setPrice() {
-        File file = new File("./src/Price.txt");
+        File file = new File("./src/Assign1/Price.txt");
 
         try {
             Scanner scanner = new Scanner(file);

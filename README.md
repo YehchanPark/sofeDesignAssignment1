@@ -10,7 +10,7 @@
 [UML Diagram](https://github.com/YehchanPark/sofeDesignAssignment1/blob/main/UML%20Diagram.png)
 
 ### Screenshots of Code Output
-[Code output](https://google.com)
+[Code output](https://github.com/YehchanPark/sofeDesignAssignment1/blob/main/Output.png)
 
 ### Group Members
 Banujan Sutheswaran (100750620)\
